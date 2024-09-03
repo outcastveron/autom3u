@@ -6,12 +6,14 @@ def fetch_m3u(url):
     response = requests.get(url)
     return response.text
 
-# 合并多个m3u文件内容
-def merge_m3u(urls):
+# 合并多个m3u文件内容并去除包含特定关键字的条目
+def merge_m3u(urls, exclude_keyword):
     merged_content = "#EXTM3U\n"
     for url in urls:
         m3u_content = fetch_m3u(url)
-        merged_content += m3u_content
+        for line in m3u_content.split('\n'):
+            if exclude_keyword not in line:
+                merged_content += line + '\n'
     return merged_content
 
 # 保存合并后的内容到文件
@@ -21,13 +23,13 @@ def save_to_file(content, filename):
 
 # 示例URL列表
 urls = [
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cx4x/Cxxx/main/TKTY.m3u",
     "https://raw.githubusercontent.com/Kyawtgvd/iptv/main/sport.m3u",
-    "https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
     # 添加更多URL
 ]
 
-# 合并并保存
-merged_content = merge_m3u(urls)
+# 合并并保存，去除包含“订阅问客服”的条目
+merged_content = merge_m3u(urls, "订阅问客服")
 save_to_file(merged_content, "merged_sport.m3u")
 
 # 添加更新时间
