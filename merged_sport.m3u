@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
 #EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
@@ -927,7 +931,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640383&e
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640385&extension=ts&play_token=CBRpo5UhuC
 #EXTINF:-1 tvg-id="1640388" tvg-name="4k| CANAL+ EVENEMENT UHD/4K" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="💥4K-体育💥",4k| CANAL+ EVENEMENT UHD/4K
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640388&extension=ts&play_token=KJJ7XXLCC1
-#EXTINF:-1 tvg-id="1491210" tvg-name="4K| CANAL+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS.png" group-title="💥4K-体育💥",4K| CANAL+ UHD
+#EXTINF:-1 tvg-id="1491210" tvg-name="4K| CANAL+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS.png" group-title="💥4K-体育💥",4K| CANAL+ UHD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491210&extension=ts&play_token=FIOEzEaKFx
 #EXTINF:-1 tvg-id="1380013" tvg-name="SP| CANAL+ 4K+/UHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL.png" group-title="💥4K-体育💥",SP| CANAL+ 4K+/UHD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1380013&extension=ts&play_token=e3ILhtelmZ
@@ -1620,27 +1624,34 @@ http://mohdtv.com:8880//voby3837/28337929/28767
 http://mohdtv.com:8880//voby3837/28337929/28741
 
 
+
 #EXTM3U
-#EXTINF:-1 group-title="ယနေ့ Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTeCGbcwrlaMub3ngpn1rCT2FoG-d8XoiWCcNiMYD0HL0EAaeTjZ2FjbG&s=10", အိစ်ပ်ဆွစ်ချ် Vs ​ဗီလာ_Only can play in Ott Navi (7:30pm)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/vMf4ZorSErC84-EPgPy4oAk/ip/85.203.21.101/id/hilF-k46cFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbKAuEBw6-5xr_Eoy0Wt_sL6KKGH0oHFNh5Oo_G4lG9Yu4vwV47QZRViL3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6RgnZzQuaWWKJ7zICeTCbU4e-xzq4JmY9bhRTffwoHAiEAz4UZxlaVoyOtfmDXrj5IkzMpu2vRyqLWSUDNgCunBbc%3D/file/index.m3u8
+#EXTINF:-1 group-title="စူပါဆန်းဒေးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTeCGbcwrlaMub3ngpn1rCT2FoG-d8XoiWCcNiMYD0HL0EAaeTjZ2FjbG&s=10", အိစ်ပ်ဆွစ်ချ် Vs ​ဗီလာ_Only can play in Ott Navi (7:30pm)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 group-title="ယနေ့ Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2wCfzMPHBQZ1Puew2GBiNrE_ZjysOz8ydkGgmokN1-G5Zc9GrQDqFLKz&s=10", ဂိတ် Vs စပါး_Only can play in Ott Navi (10:00pm)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/vMf4ZorSErC84-EPgPy4oAk/ip/85.203.21.101/id/hilF-k46cFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbKAuEBw6-5xr_Eoy0Wt_sL6KKGH0oHFNh5Oo_G4lG9Yu4vwV47QZRViL3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6RgnZzQuaWWKJ7zICeTCbU4e-xzq4JmY9bhRTffwoHAiEAz4UZxlaVoyOtfmDXrj5IkzMpu2vRyqLWSUDNgCunBbc%3D/file/index.m3u8
+#EXTINF:-1 group-title="စူပါဆန်းဒေးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2wCfzMPHBQZ1Puew2GBiNrE_ZjysOz8ydkGgmokN1-G5Zc9GrQDqFLKz&s=10", ဂိတ် Vs စပါး_Only can play in Ott Navi (10:00pm)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="ယနေ့ Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPq5h-gkgBRT3axF6GnNGZwO1FMcwKyds4Z8Pg-kX9jvQCh7SSB4thKz_O&s=10", အေတီကို Vs ရီးရဲ_Only can play in Ott Navi (1:30am)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/vMf4ZorSErC84-EPgPy4oAk/ip/85.203.21.101/id/hilF-k46cFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbKAuEBw6-5xr_Eoy0Wt_sL6KKGH0oHFNh5Oo_G4lG9Yu4vwV47QZRViL3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6RgnZzQuaWWKJ7zICeTCbU4e-xzq4JmY9bhRTffwoHAiEAz4UZxlaVoyOtfmDXrj5IkzMpu2vRyqLWSUDNgCunBbc%3D/file/index.m3u8
+#EXTINF:-1 group-title="စူပါဆန်းဒေးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPq5h-gkgBRT3axF6GnNGZwO1FMcwKyds4Z8Pg-kX9jvQCh7SSB4thKz_O&s=10", အေတီကို Vs ရီးရဲ_Only can play in Ott Navi (1:30am)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 5
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 6 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 7 (Only Live Event)
@@ -2499,4 +2510,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-09-29
-# 更新时间: 03:56:16
+# 更新时间: 12:33:30
