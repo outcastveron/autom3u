@@ -25,6 +25,9 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
+#EXTINF:-1, TUDN USA 🇺🇸
+http://165.1.79.137:1235/stream/directv/tudnhd/master.m3u8
+
 #EXTINF:-1, sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
 
@@ -72,6 +75,12 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&e
 
 #EXTINF:-1, CBS SPORT 🇺🇸
 http://165.1.79.137:1235/stream/directv/cbssportsnetworkhd/master.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
+http://209.126.105.136:8181/stream/asd/26/master.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
+http://209.126.105.136:8181/stream/asd/239/master.m3u8
 
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -150,6 +159,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://45.68.35.218:4001/play/a015/index.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://209.126.105.136:8181/stream/asd/53/master.m3u8
 
 #EXTINF:-1, Матч! (EDTV 576p) 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
@@ -2987,4 +2999,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-10-22
-# 更新时间: 15:28:40
+# 更新时间: 15:39:49
