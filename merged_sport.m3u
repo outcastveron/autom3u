@@ -7,6 +7,9 @@ https://n8ls15kh.whystream.pro/hls/SYTijlpoDcpt/index.m3u8?st=hWtSuJ0fT6yW_pNWL1
 #EXTINF:-1,LC 🇪🇸
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/QSi4dlQclOnoAwMCffbWiC-V1qnQx5C-SBbe3Os4BKIpPeftcyljFAhT8rBO1DjUBKowNIBrZtcpanpGaU10qSoQcVI5ba63qzXwEAf8RjlZPngHhXhvocaUCbOlVElNAPjtKWZJN-f04QhfEeadLGeCijQ1Q6MESy8Qy0S92Y3pzEe-HkKxb2iFL8y64_PT/hls/index.m3u8
 
+#EXTINF:-1,LC 🇪🇸
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/JBvdgA7xg7YlqByIPYYHblt8zLCl5ZwI4x1VsrfyDuIhLacAuc_PNDjwepK24d-KhVQbHK8y_ngSIu34EfBA9NQyQXoVbayqZz1jMZ1asBxrfkog7IZYJ8fg0_0DKIeW3SxoE9obdwn3ASDGc7Y1DkbLtz612gLKPJytmg0BYS9h2QFKvaYtDhMZmzvGzixX/hls/index.m3u8
+
 #EXTINF:-1, TUDN USA 🇺🇸
 http://165.1.79.137:1235/stream/directv/tudnhd/master.m3u8
 
@@ -39,6 +42,12 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1, FOX SPORT 2 🇦🇷
 http://192.141.95.253:8000/play/a00k/index.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇿🇦
+https://bongls.com/zone-11.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇿🇦
+https://cloudserve.world/live/stream_6.m3u8
 
 #EXTINF:-1, CHAMP 🇪🇺
 https://s@sportnext.online/hls/M2.m3u8
@@ -106,13 +115,19 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1, Arena Sport4 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 
-#EXTINF:-1, Tnt Sport 3 🇦🇷
+#EXTINF:-1, Tnt Sport 1 🇬🇧
+https://fs.fscdn.fun/tnt1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Tnt Sport 2 🇬🇧
+https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
+
+#EXTINF:-1, Tnt Sport 3 🇬🇧
 https://fs.qwertyisaddictedtodxm.pw/tnt3/index.m3u8
 
-#EXTINF:-1, Tnt Sport 3 🇦🇷
+#EXTINF:-1, Tnt Sport 3 🇬🇧
 https://fs.qwertyisaddictedtodxm.pw:443/tnt3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Tnt Sport 3 🇦🇷
+#EXTINF:-1, Tnt Sport 3 🇬🇧
 https://fs.qwertyisaddictedtodxm.pw/tnt3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TUDN USA 🇺🇸
@@ -666,6 +681,9 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 
 #EXTINF:-1, ITV DEPORTES 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#EXTINF:-1,SPORT MAX EN VIVO 🇦🇷
+https://fl1002.bozztv.com:443/ssh101/australar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SPORT FANS 🇧🇷
 http://91.132.74.4:7374/play/a00k/index.m3u8
@@ -3072,4 +3090,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-10-23
-# 更新时间: 14:52:36
+# 更新时间: 15:19:49
