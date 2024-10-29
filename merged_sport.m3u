@@ -1246,6 +1246,246 @@ https://liveua.score806.cc/uk_eurosport2/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/us_wwe/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Dazn 1 Spain {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/4194/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Dazn 2 Spain {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/4195/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Dazn 3 Spain {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/4196/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Dazn 4 Spain {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/4197/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sport Football {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15547/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sport Arena {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15552/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ Premier League {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18263/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 1 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18256/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 2 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18257/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 3 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18258/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 4 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18259/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 5 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18260/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 6 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18261/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 7 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/18262/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 8 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/4956/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", SKY SPORTS NZ 9 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/4955/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Eleven Sports 1 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3291/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Eleven Sports 2 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3292/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Eleven Sports 3 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3293/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Eleven Sports 4 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3294/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Eleven Sports 5 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3295/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Eleven Sports 6 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3296/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sport TV 1 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3137/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sport TV 2 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3139/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sport TV 3 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3141/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sport TV 4 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3142/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sport TV 5 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/3143/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sports Main Event {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15545/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sports Premier League {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/484/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sports Premier League 50FPS {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15546/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sports Mix {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15553/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Sky Sports Action / NFL {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15551/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", TNT Sport Ultimate {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1138/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", TNT Sport 1 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/557/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", TNT Sport 2 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/556/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", TNT Sports 3 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/555/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", TNT Sports 4 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/554/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Premier Sports 1 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15557/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Premier Sports 2 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/15558/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", LFC {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/523/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", USA Network {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1127/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", FOX SPORTS 1 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1357/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", FOX SPORTS 2 {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1355/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", FOX DEPORTES {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1362/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Fox Soccer Plus {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1358/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", CBS SPORTS NETWORK {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1455/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", UNIVISION {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1129/index.m3u8
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", NBC UNIVERSO {cdnlive}
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1241/index.m3u8
 #EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Abu Dhabi Sports 1 Premium {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=609
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -3714,4 +3954,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-10-29
-# 更新时间: 03:51:35
+# 更新时间: 12:37:12
