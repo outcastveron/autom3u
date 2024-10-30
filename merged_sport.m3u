@@ -1594,6 +1594,46 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=492
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=493
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=493
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS 1 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=116
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=116
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS 2 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=117
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=117
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS 3 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=118
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=118
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 4 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=494
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=494
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 5 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=495
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=495
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 6 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=496
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=496
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 7 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=497
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=497
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 8 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=498
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=498
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 9 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=499
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=499
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 10 France {slive}
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=500
 #EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", CBS Sports Network {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=308
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -3954,4 +3994,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-10-30
-# 更新时间: 03:51:21
+# 更新时间: 12:37:02
