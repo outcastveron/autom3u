@@ -634,6 +634,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1,SPORT MAX EN VIVO 🇦🇷
 https://fl1002.bozztv.com:443/ssh101/australar/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ESPN 1 🇧🇷
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 2 🇧🇷
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 3 🇧🇷
+https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 4 🇧🇷
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 5 🇧🇷
+https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 6 🇧🇷
+https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORT FANS 🇧🇷
 http://91.132.74.4:7374/play/a00k/index.m3u8
 
@@ -835,6 +853,9 @@ http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1, DAZN 🇩🇪
 https://s6.hopslan.com:443/servus2/tracks-v1a1/mono.m3u8?token=1b87cad22ca07d93a79863dfd2a6956023c7c37a-69f976a75a735d432fae46bb678241b4-1727998093-1727987293
 
+#EXTINF:-1, Scooore 🇩🇪
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
+
 #EXTINF:-1, SKY SPORT F1 🇬🇧
 https://s@cloudserve.world/live/stream_f1.m3u8
 
@@ -846,6 +867,9 @@ https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48eb
 
 #EXTINF:-1,GXR 🇮🇳
 https://s@dx12yig2oz0vp.cloudfront.net:443/out/v1/48bb590edb2f4bcd91e0ab46950bf94a/index_5.m3u8
+
+#EXTINF:-1, SPORT 18 🇮🇳
+https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 
 #EXTINF:-1, ARY Sports 🇮🇳
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -887,6 +911,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
 
 #EXTINF:-1, AIO SPORT 🇶🇦
+https://af.ayassport.ir/hls2/bein1.m3u8
+
+#EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1, AIO SPORT 🇶🇦
@@ -898,8 +925,20 @@ http://cdn.footballii.ir:8080/hls2/stream02.m3u8
 #EXTINF:-1, SSC 1 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
 
+#EXTINF:-1, SSC 1 🇸🇦
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
 #EXTINF:-1, SSC 4 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8
+
+#EXTINF:-1, TVV SPORT 🇸🇦
+https://af.ayassport.ir/hls2/stream01.m3u8
+
+#EXTINF:-1, TVV SPORT 🇸🇦
+https://af.ayassport.ir/hls2/stream02.m3u8
+
+#EXTINF:-1, TVV SPORT 🇸🇦
+https://af.ayassport.ir/hls2/stream03.m3u8
 
 #EXTINF:-1, ON Sport 🇸🇦
 http://cdn.footballii.ir:8080/hls2/stream03.m3u8
@@ -4155,4 +4194,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-04
-# 更新时间: 03:45:45
+# 更新时间: 12:37:26
