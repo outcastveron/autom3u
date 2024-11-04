@@ -70,6 +70,9 @@ http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://209.126.105.136:8181/stream/asd/53/master.m3u8
 
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://b.trydarius.shop/espnsap.m3u8?t=532
+
 #EXTINF:-1, Матч! (EDTV 576p) 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
@@ -125,6 +128,24 @@ http://181.78.105.146:8800/play/a07h
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://176.65.146.108:8022/play/a06r/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
+http://176.65.146.108:8022/play/a072/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
+http://176.65.146.108:8022/play/a073/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://176.65.146.108:8022/play/a06t/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 5 HD 🇵🇹
+http://176.65.146.108:8022/play/a06u/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 6 HD 🇵🇹
+http://176.65.146.108:8022/play/a074/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
@@ -172,6 +193,27 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021589&ext
 #EXTINF:-1,ELEVEN SPORTS 6 HD 🇵🇹
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021587&extension=m3u8
 
+#EXTINF:-1,SPORTV + 🇵🇹
+http://176.65.146.108:8022/play/a07t/index.m3u8
+
+#EXTINF:-1,SPORTV1 🇵🇹
+http://176.65.146.108:8022/play/a06h/index.m3u8
+
+#EXTINF:-1,SPORTV2 🇵🇹
+http://176.65.146.108:8022/play/a06i/index.m3u8
+
+#EXTINF:-1,SPORTV3 🇵🇹
+http://176.65.146.108:8022/play/a06j/index.m3u8
+
+#EXTINF:-1,SPORTV4 🇵🇹
+http://176.65.146.108:8022/play/a05z/index.m3u8
+
+#EXTINF:-1,SPORTV5 🇵🇹
+http://176.65.146.108:8022/play/a06f/index.m3u8
+
+#EXTINF:-1,SPORTV6 🇵🇹
+http://176.65.146.108:8022/play/a06g/index.m3u8
+
 #EXTINF:-1,SPORTV1 🇵🇹
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
 
@@ -210,6 +252,9 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 
 #EXTINF:-1, Sport TV 6 🇵🇹
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://p2.7aramoawa.site/hls/918454578001/index.m3u8?t=tBBAozoxg-5dIDoedsbESQ&e=1730579025
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports1.m3u8
@@ -300,6 +345,39 @@ http://213.176.3.72:1234/stream/FRANCE/971/master.m3u8
 
 #EXTINF:-1, Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/beinsports3fhd/master.m3u8
+
+#EXTINF:-1, K SPORT 1 🇦🇱
+http://84.22.41.184:8001/play/332/index.m3u8
+
+#EXTINF:-1, K SPORT 2 🇦🇱
+http://84.22.41.184:8001/play/333/index.m3u8
+
+#EXTINF:-1, K SPORT 3 🇦🇱
+http://84.22.41.184:8001/play/334/index.m3u8
+
+#EXTINF:-1, K SPORT 4 🇦🇱
+http://84.22.41.184:8001/play/335/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 1 🇦🇱
+http://84.22.41.184:8001/play/337/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://84.22.41.184:8001/play/537/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 3 🇦🇱
+http://84.22.41.184:8001/play/338/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 4 🇦🇱
+http://84.22.41.184:8001/play/339/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 5 🇦🇱
+http://84.22.41.184:8001/play/340/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 6 🇦🇱
+http://84.22.41.184:8001/play/341/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 7 🇦🇱
+http://84.22.41.184:8001/play/342/index.m3u8
 
 #EXTINF:-1, Arena Sport3 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
@@ -414,6 +492,9 @@ http://45.90.106.98/digisport2/index.m3u8
 
 #EXTINF:-1, DIGI SPORT 3 🇷🇴
 http://45.90.106.98/digisport3/index.m3u8
+
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://193.106.124.204:8002/play/a01l
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
@@ -655,6 +736,9 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, Viju+ Sport 🇷🇺
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Матч PRFN 🇷🇺
+https://m2tsxp2xerl.a.trbcdn.net/MATCHPRFN/index.m3u8
+
 #EXTINF:-1, Матч! Планета 🇷🇺
 https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
@@ -753,6 +837,9 @@ https://s6.hopslan.com:443/servus2/tracks-v1a1/mono.m3u8?token=1b87cad22ca07d93a
 
 #EXTINF:-1, SKY SPORT F1 🇬🇧
 https://s@cloudserve.world/live/stream_f1.m3u8
+
+#EXTINF:-1, ESPN NEWS F1 🇺🇸
+https://c.trydarius.shop/espnnews.m3u8
 
 #EXTINF:-1,GXR 🇮🇳
 https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
@@ -4067,5 +4154,5 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Drama PLEX (Sweden)
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
-https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-03
-# 更新时间: 15:51:26
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-04
+# 更新时间: 01:25:09
