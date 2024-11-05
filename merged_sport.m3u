@@ -121,6 +121,12 @@ http://181.78.27.128:8000/play/a062/index.m3u8
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
+
+#EXTINF:-1, TNT SPORT 3 🇬🇧
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
+
 #EXTINF:-1, Arena Sport4 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 
@@ -3932,4 +3938,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-05
-# 更新时间: 13:51:29
+# 更新时间: 14:17:21
