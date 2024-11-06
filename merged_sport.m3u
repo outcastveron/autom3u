@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1, UNIMAS 🇺🇸
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
-
-#EXTINF:-1, UNIMAS 🇺🇸
-http://529308742378955148.ofnm1026.xyz:80/play/Serg0226L/Akdykeefd122/955148.ts
-
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://p2.7aramoawa.site/hls/918454578001/index.m3u8?t=tBBAozoxg-5dIDoedsbESQ&e=1730579025
 
@@ -15,6 +9,9 @@ https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
@@ -27,6 +24,9 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+
+#EXTINF:-1, TNT SPORT 4 🇬🇧
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
@@ -48,6 +48,15 @@ https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
 
 #EXTINF:-1, LIVE 4 🇪🇺
 https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
+
+#EXTINF:-1, LIVE 5 🇪🇺
+https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
+
+#EXTINF:-1, LIVE 6 🇪🇺
+https://cheapmdhal.lol/live/6/chunks.m3u8?bongls.com
+
+#EXTINF:-1, LIVE 7 🇪🇺
+https://cheapmdhal.lol/live/7/chunks.m3u8?bongls.com
 
 #EXTINF:-1, CHAMP 🇪🇺
 https://s@sportnext.online/hls/M2.m3u8
@@ -88,8 +97,8 @@ http://45.71.254.1:8000/play/a06m/index.m3u8
 #EXTINF:-1, ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
 
-#EXTINF:-1, ESPN 🇨🇴
-http://45.71.254.1:8000/play/a06k/index.m3u8
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://45.71.254.1:8000/play/a09j/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇨🇴
 http://45.71.254.1:8000/play/a0ep/index.m3u8
@@ -118,18 +127,32 @@ http://181.78.27.128:8000/play/a062/index.m3u8
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+
 #EXTINF:-1, TNT SPORT 2 🇬🇧
-https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
+http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
 
 #EXTINF:-1, TNT SPORT 3 🇬🇧
-https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
+http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
 
-#EXTINF:-1, Arena Sport4 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
+#EXTINF:-1, ESPN 🇨🇱
+http://45.71.254.1:8000/play/a06k/index.m3u8
 
+#EXTINF:-1, ESPN 🇨🇴
+http://45.71.254.1:8000/play/a012/index.m3u8
 
+#EXTINF:-1, ESPN 🇨🇴
+http://45.71.254.1:8000/play/a05z/index.m3u8
 
+#EXTINF:-1, ESPN 🇨🇱
+http://45.71.254.1:8000/play/a04e/index.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://45.71.254.1:8000/play/a01r/index.m3u8
 
 
 
@@ -532,6 +555,9 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 #EXTINF:-1, REAL MADRID TV 🇪🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
+#EXTINF:-1, REAL MADRID TV 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
@@ -628,8 +654,14 @@ https://g.trydarius.shop/cbssn.m3u8
 #EXTINF:-1, FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1, FS 1 SPORT 🇺🇸
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
 #EXTINF:-1, ESPN2 🇺🇸
 https://b.trydarius.shop/espn2.m3u8
+
+#EXTINF:-1, SPORT NETWORK 🇺🇸
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
@@ -814,6 +846,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1, Football HD Tajikistan 🇹🇯
 https://live.teleradiocom.tj/8/3m.m3u8
 
+#EXTINF:-1, NOW SPORT 1 🇭🇰
+http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
+
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
 
@@ -858,6 +893,15 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1, Sport A 🇨🇳
+http://37.27.111.214:8080/live/13/hls.m3u8
+
+#EXTINF:-1, Sport B 🇨🇳
+http://37.27.111.214:8080/live/14/hls.m3u8
+
+#EXTINF:-1, Sport C 🇨🇳
+http://37.27.111.214:8080/live/15/hls.m3u8
 
 #EXTINF:-1, TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -3934,5 +3978,5 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Drama PLEX (Sweden)
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
-https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-05
-# 更新时间: 15:51:28
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-06
+# 更新时间: 01:21:36
