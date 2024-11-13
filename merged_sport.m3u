@@ -196,6 +196,24 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 #EXTINF:-1, Sport TV 6 🇵🇹
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
 
+EXTINF:-1, Sport TV 1 🇵🇹
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
+
+#EXTINF:-1, Sport TV 2 🇵🇹
+http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
+
+#EXTINF:-1, Sport TV 3 🇵🇹
+http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
+
+#EXTINF:-1, Sport TV 4 🇵🇹
+http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
+
+#EXTINF:-1, Sport TV 5 🇵🇹
+http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
+
+#EXTINF:-1, Sport TV 6 🇵🇹
+http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://ca.yalla-shootj.com/memfs/55ad155f-a5a6-4980-9d98-c04cf3101c51.m3u8
 
@@ -435,6 +453,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,DIRECT SPORT 🇦🇷
+http://38.183.183.249:8000/play/a0gl/index.m3u8
 
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://hzcdn.vood.top:80/hls/309458_.m3u8
@@ -757,6 +778,15 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
 
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://edge10.776740.ir.cdn.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://stream.live12.ir/hls2/persianas.m3u8
+
 #EXTINF:-1, AIO SPORT 🇶🇦
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
 
@@ -765,6 +795,15 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
+
+#EXTINF:-1,SPORT 1 🇶🇦
+https://stream.live12.ir/hls2/stream01.m3u8
+
+#EXTINF:-1,SPORT 2 🇶🇦
+https://stream.live12.ir/hls2/stream02.m3u8
+
+#EXTINF:-1,SPORT 3 🇶🇦
+https://stream.live12.ir/hls2/stream03.m3u8
 
 #EXTINF:-1, AI TV3 sport 🇶🇦
 https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
@@ -3895,6 +3934,178 @@ http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/79435
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/61670
 #EXTINF:-1 tvg-id="SK 10 HD (SR)" tvg-name="Sport | Sport Klub 10ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b94e24e5f9bc4c96bea7be738f4297a7.png" group-title="Xplat Sports",Sport Klub 10
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/61669
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Eleven Sport 1 Belgium
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=78969&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Eleven Sport 2 Belgium
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=78970&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Eleven Sport 3 Belgium
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=97373&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", VOO Sport World 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=42370&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", VOO Sport World 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59833&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", VOO Sport World 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59834&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Play Sport 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228519&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Play Sport 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228520&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Play Sport 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228521&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Ziggo Sport 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=308123&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Ziggo Sport 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=308124&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Ziggo Sport 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=308122&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Ziggo Sport 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=308119&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Canal+ Sport FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2804&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Canal+ Foot FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=418308&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Canal+ Sport 360 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=418307&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", RMC Sport 1 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=746094&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", RMC Sport 2 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2810&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport 1 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2816&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport 2 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2818&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport 3 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2820&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 4 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=80079&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 5 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=80080&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 6 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=80081&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 7 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=80082&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 8 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=80083&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 9 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=80084&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sport Max 10 FR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2828&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", SSC Sport 1 
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=469895&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", SSC Sport 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=469896&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", SSC Sport 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=469897&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", SSC Sport 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=469898&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", SSC Sport 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=469899&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sports 1 AR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59306&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sports 2 AR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59307&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sports 3 AR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59308&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sports 4 AR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59309&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sports 5 AR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59310&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Bein Sports 6 AR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59311&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Fox Sports 1 US
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61345&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Fox Sports 2 US
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61346&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", CBS Sports Network
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61352&extension=ts
+#EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", NBC Sports Network
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61350&extension=ts
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 (kstv)
@@ -5723,5 +5934,5 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Drama PLEX (Sweden)
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
-https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-12
-# 更新时间: 15:51:34
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-13
+# 更新时间: 01:22:52
