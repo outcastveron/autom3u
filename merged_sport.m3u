@@ -1296,231 +1296,231 @@ https://livecdn-iptv001.rumsport.com/livetv2/1129/index.m3u8
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/1241/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Abu Dhabi Sports 1 Premium {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Abu Dhabi Sports 1 Premium {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=609
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=609
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Abu Dhabi Sports 2 Premium {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Abu Dhabi Sports 2 Premium {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=610
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=610
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Alkass One {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Alkass One {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=781
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Alkass Two {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Alkass Two {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=782
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=782
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Alkass Three {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Alkass Three {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=783
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=783
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Alkass Four {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Alkass Four {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=784
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=784
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 1 Premium {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 1 Premium {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=134
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=134
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 2 Premium {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 2 Premium {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=135
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=135
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 3 Premium {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 3 Premium {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=139
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=139
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 1 Serbia {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 1 Serbia {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=429
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=429
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 2 Serbia {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 2 Serbia {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=430
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=430
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 3 Serbia {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 3 Serbia {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=431
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=431
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Arena Sport 4 Serbia {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Arena Sport 4 Serbia {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=581
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=581
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Astro SuperSport 1 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Astro SuperSport 1 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=123
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Astro SuperSport 2 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Astro SuperSport 2 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=124
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=124
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Astro SuperSport 3 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Astro SuperSport 3 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=125
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=125
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Astro SuperSport 4 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Astro SuperSport 4 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=126
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=126
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", BBC One UK {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", BBC One UK {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=356
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=356
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", BBC Two UK {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", BBC Two UK {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=357
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=357
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", BBC Three UK {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", BBC Three UK {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=358
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=358
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", BBC Four UK {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", BBC Four UK {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=359
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=359
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MENA English 1 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MENA English 1 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=61
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MENA English 2 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MENA English 2 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=90
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MENA English 3 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MENA English 3 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=46
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS Australia 1 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN SPORTS Australia 1 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=491
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=491
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS Australia 2 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN SPORTS Australia 2 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=492
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS Australia 3 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN SPORTS Australia 3 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=493
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=493
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS 1 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN SPORTS 1 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=116
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=116
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS 2 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN SPORTS 2 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=117
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=117
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN SPORTS 3 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN SPORTS 3 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=118
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=118
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 4 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 4 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=494
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=494
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 5 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 5 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=495
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=495
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 6 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 6 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=496
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=496
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 7 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 7 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=497
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=497
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 8 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 8 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=498
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=498
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 9 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 9 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=499
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=499
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", beIN Sports MAX 10 France {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", beIN Sports MAX 10 France {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=500
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", CBS Sports Network {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", CBS Sports Network {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=308
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=308
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", CBS Sports Golazo {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", CBS Sports Golazo {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=910
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=910
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Cosmote Sport 1 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Cosmote Sport 1 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=622
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=622
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Cosmote Sport 2 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Cosmote Sport 2 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=623
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=623
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Cosmote Sport 3 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Cosmote Sport 3 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=624
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=624
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Cosmote Sport 4 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Cosmote Sport 4 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=625
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=625
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Cosmote Sport 5 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Cosmote Sport 5 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=626
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=626
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 1 Bar DE {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 1 Bar DE {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=426
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=426
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 2 Bar DE {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 2 Bar DE {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=427
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=427
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 1 UK {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 1 UK {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=230
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=230
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 1 Spain {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 1 Spain {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=445
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=445
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 2 Spain {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 2 Spain {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=446
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=446
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 3 Spain {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 3 Spain {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=447
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=447
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN 4 Spain {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN 4 Spain {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=448
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=448
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN LaLiga {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN LaLiga {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=538
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=538
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", DAZN LaLiga 2 {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", DAZN LaLiga 2 {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=43
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Digi Sport 1 Romania {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Digi Sport 1 Romania {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=400
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Digi Sport 2 Romania {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Digi Sport 2 Romania {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=401
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=401
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Digi Sport 3 Romania {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Digi Sport 3 Romania {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=402
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_fF5gFkfxE1FaJkspSzdsXH5OpMFAa3nVA&usqp=CAU", Digi Sport 4 Romania {slive}
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Digi Sport 4 Romania {slive}
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=403
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=403
@@ -3697,17 +3697,17 @@ http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52222
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52223
 #EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-name="Sport | Sport Klub 4 SRⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9c765e60c4b4d847de2abd7672b0a1a5.png" group-title="Xplat Sports",Sport Klub 4 SR
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/13560
-#EXTINF:-1 tvg-id="SK 5 HD (SR)" tvg-name="Sport | Sport Klub 5ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d9e687be27e9faec65b380401300ae7b.png" group-title="Xplat Sports",Sport Klub 5
+#EXTINF:-1 tvg-id="SK 5 HD (SR)" tvg-name="Sport | Sport Klub 5ⓧ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxrNIobif2AbCKoXvF6EPY7JevHhCOfReTg&s" group-title="Xplat Sports",Sport Klub 5
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52225
-#EXTINF:-1 tvg-id="SK 6 HD (SR)" tvg-name="Sport | Sport Klub 6ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e403a15e8671f73177802eb491efe76b.png" group-title="Xplat Sports",Sport Klub 6
+#EXTINF:-1 tvg-id="SK 6 HD (SR)" tvg-name="Sport | Sport Klub 6ⓧ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxrNIobif2AbCKoXvF6EPY7JevHhCOfReTg&s" group-title="Xplat Sports",Sport Klub 6
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52226
-#EXTINF:-1 tvg-id="SK 7 HD (SR)" tvg-name="Sport | Sport Klub 7ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/62f6acfe054dda346ce67f822720e477.png" group-title="Xplat Sports",Sport Klub 7
+#EXTINF:-1 tvg-id="SK 7 HD (SR)" tvg-name="Sport | Sport Klub 7ⓧ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxrNIobif2AbCKoXvF6EPY7JevHhCOfReTg&s" group-title="Xplat Sports",Sport Klub 7
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/79434
-#EXTINF:-1 tvg-id="SK 8 HD (SR)" tvg-name="Sport | Sport Klub 8ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9d9946ef88d7e6690d0a7fe5febbaf41.png" group-title="Xplat Sports",Sport Klub 8
+#EXTINF:-1 tvg-id="SK 8 HD (SR)" tvg-name="Sport | Sport Klub 8ⓧ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxrNIobif2AbCKoXvF6EPY7JevHhCOfReTg&s" group-title="Xplat Sports",Sport Klub 8
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/79435
-#EXTINF:-1 tvg-id="SK 9 HD (SR)" tvg-name="Sport | Sport Klub 9ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4c07cb56323509aa921dce86c6e8dfc3.png" group-title="Xplat Sports",Sport Klub 9
+#EXTINF:-1 tvg-id="SK 9 HD (SR)" tvg-name="Sport | Sport Klub 9ⓧ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxrNIobif2AbCKoXvF6EPY7JevHhCOfReTg&s" group-title="Xplat Sports",Sport Klub 9
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/61670
-#EXTINF:-1 tvg-id="SK 10 HD (SR)" tvg-name="Sport | Sport Klub 10ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b94e24e5f9bc4c96bea7be738f4297a7.png" group-title="Xplat Sports",Sport Klub 10
+#EXTINF:-1 tvg-id="SK 10 HD (SR)" tvg-name="Sport | Sport Klub 10ⓧ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxrNIobif2AbCKoXvF6EPY7JevHhCOfReTg&s" group-title="Xplat Sports",Sport Klub 10
 http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/61669
 #EXTINF:-1 group-title="Pdata Sports" tvg-logo="https://d2cyh61n5mln28.cloudfront.net/media/images/good-sports-social.width-1280.png", Eleven Sport 1 Belgium
 #EXTVLCOPT:cache=17238
@@ -4127,17 +4127,17 @@ http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53297
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53298
 #EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 10 DE
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53299
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png", DAZN ELEVEN SPORTS 1
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", DAZN ELEVEN SPORTS 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9742.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png", DAZN ELEVEN SPORTS 2
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", DAZN ELEVEN SPORTS 2
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9744.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/3475ebd9a068546bcde697f23efb2e7f.png", DAZN ELEVEN SPORTS 3
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", DAZN ELEVEN SPORTS 3
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9750.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/ef7204e55384ffe49c4f8b8296cb969e.png", DAZN ELEVEN SPORTS 4
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", DAZN ELEVEN SPORTS 4
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9800.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png", DAZN ELEVEN SPORTS 5
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", DAZN ELEVEN SPORTS 5
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9797.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png", DAZN ELEVEN SPORTS 6
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", DAZN ELEVEN SPORTS 6
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9795.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", SPORT TV 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/95156.ts
@@ -4151,33 +4151,33 @@ http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/36982.t
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/36983.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", SPORT TV 6
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/66793.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png", ELEVEN SPORTS 1 Local
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IOIycjfMQCYhp3jQC1NToYuRmQAy_gLPAarwCCAwSb69jMUhJ1SQll0&s=10", ELEVEN SPORTS 1 Local
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/37018.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png", ELEVEN SPORTS 2 Local
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IOIycjfMQCYhp3jQC1NToYuRmQAy_gLPAarwCCAwSb69jMUhJ1SQll0&s=10", ELEVEN SPORTS 2 Local
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/37019.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/3475ebd9a068546bcde697f23efb2e7f.png", ELEVEN SPORTS 3 Local
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IOIycjfMQCYhp3jQC1NToYuRmQAy_gLPAarwCCAwSb69jMUhJ1SQll0&s=10", ELEVEN SPORTS 3 Local
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/36987.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/ef7204e55384ffe49c4f8b8296cb969e.png", ELEVEN SPORTS 4 Local
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IOIycjfMQCYhp3jQC1NToYuRmQAy_gLPAarwCCAwSb69jMUhJ1SQll0&s=10", ELEVEN SPORTS 4 Local
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/36988.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png", ELEVEN SPORTS 5 Local
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IOIycjfMQCYhp3jQC1NToYuRmQAy_gLPAarwCCAwSb69jMUhJ1SQll0&s=10", ELEVEN SPORTS 5 Local
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/36989.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/b4f7b3eeda324e3105f8e57c7be3eaac.png", VOO SPORT WORLD 1
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", VOO SPORT WORLD 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/51531.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/173dfd8e1220872846c39edc8c1d65ce.png", VOO SPORT WORLD 2
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", VOO SPORT WORLD 2
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/51532.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/54ad5f5f8776829af7638f1b47c942ad.png", VOO SPORT WORLD 3
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", VOO SPORT WORLD 3
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/51533.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/163efab435670f872ae7a04f0c3baccb.png", ELEVEN SPORTS 1 BE
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", ELEVEN SPORTS 1 BE
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/64903.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/095c1da18aa81ff24671574b429a381a.png", ELEVEN SPORTS 2 BE
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", ELEVEN SPORTS 2 BE
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/5271.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/71ac3f6dd0dea9d6d6dafa640afd7b9a.png", ELEVEN SPORTS 3 BE
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", ELEVEN SPORTS 3 BE
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/39715.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/3a40e38860b939f70a8429c6c74dfe68.png", PLAY SPORTS 1
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", PLAY SPORTS 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/43361.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/f06417a25d469ec8f983151f63b5cc03.png", PLAY SPORTS 2
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", PLAY SPORTS 2
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/43362.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/e6cc173d9c64947e9ec428292feb1b87.png", PLAY SPORTS 3
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", PLAY SPORTS 3
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/43363.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1 FR
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/450.ts
@@ -4197,7 +4197,7 @@ http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1975.ts
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1976.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png", BEIN SPORTS 9 Max
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1977.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/0adbb229a50d915353fd800669ab35ea.png", CANAL+ LIGUE 1
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcymjwyZheVgxnSS3laghxcpfOyrPhpXgeKf4ym-UbMpsso8N1499u-Jj&s=10", CANAL+ LIGUE 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/36583.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1920x1080/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png", CANAL+ SPORT
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/51157.ts
@@ -4221,23 +4221,23 @@ http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/485.ts
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/486.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-rmc-sport-live-10.png", RMC SPORT LIVE 10
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/487.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png", BEIN SPORTS LA LIGA
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", BEIN SPORTS LA LIGA
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/3582.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png", LA LIGA TV
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", LA LIGA TV
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1923.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png", M+ LALIGA
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", M+ LALIGA
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1924.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/3a579d1722d7aa667a7e0497b53547ab.png", M+ DEPORTE 1
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", M+ DEPORTE 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/6947.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/7bc29276bbbfa1842a92925d9a3ff28f.png", M+ DEPORTE 2
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", M+ DEPORTE 2
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/6948.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/bd96d2c2f74f7dc60bdc5404703a83f5.png", MOVISTAR DEPORTES
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", MOVISTAR DEPORTES
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1928.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png", MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", MOVISTAR LIGA DE CAMPEONES
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1933.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/03dc7679b4c21d3ac400524fd51dbd4a.png", LA 1
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", LA 1
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/1922.ts
-#EXTINF:-1 group-title="Salla Sports" tvg-logo="http://obsfullhd.tv:25461/images/cfeae69ff1bf753651025538ec52f78c.png", LA 2
+#EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", LA 2
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/5340.ts
 #EXTINF:-1 group-title="Salla Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4HatP8eAaiHRT-dO5Z3EIM0-ACEJnGlxRg&usqp=CAU", SKY SPORTS MAIN EVENT
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/2091.ts
@@ -6204,4 +6204,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-15
-# 更新时间: 15:40:11
+# 更新时间: 15:51:25
