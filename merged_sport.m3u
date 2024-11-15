@@ -1056,231 +1056,6 @@ http://168.227.131.66:8000/play/tfc0/index.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545#EXTM3U
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", TNT SPORT 1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", TNT SPORT 2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", TNT SPORT 3 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts3/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", TNT SPORT 4 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts4/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eleven Sport 1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eleven Sport 2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eleven Sport 3 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport3/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eleven Sport 4 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport4/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eleven Sport 5 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport5/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eleven Sport 6 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport6/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sport  TV 1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sport  TV 2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sport  TV 3 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv3/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sport TV 4 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv4/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sport TV 5 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv5/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", BEIN SPORTS 1 FR {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_beinsports1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", BEIN SPORTS 2 FR {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_beinsports2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Bein Sports 3 FR {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_beinsports3/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", RMC SPORT 1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_rmcsport1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", RMC SPORT 2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_rmcsport2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", USA Network {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_usa/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", CBS Sports Network {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_cbssportsnetwork/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", FS1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_fs1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", FS2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_fs2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Main Event {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssmain/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Premier League {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssepl/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Football {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssfb/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports News {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssnews/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Arena {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssarena/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Mix {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssmix/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Tennis {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_sstennis/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports Golf {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssgolf/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Sky Sports F1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_ssf1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", PREMIER SPORTS 1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_premiersports1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", PREMIER SPORTS 2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_premiersports2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", ITV 1 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_itv1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", ITV 2 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_itv2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", ITV 3 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_itv3/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", ITV 4 {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_itv4/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", BBC One {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bbc1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", BBC Two {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bbc2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", BBC Three {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bbc3/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eurosport 1 UK {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_eurosport1/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", Eurosport 2 UK {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_eurosport2/index.m3u8
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", WWE Network {ualive}
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVx1LJE15YacYLdJCyFqcrKSvg9NTYfA0TJ9Qupq3lGnXHr7xOL-m95ys&s=10", Dazn 1 Spain {cdnlive}
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
@@ -4106,6 +3881,252 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61352&exten
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61350&extension=ts
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ Plus 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/66631
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ Plus 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/99905
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Movistar Deportes 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/66843
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Movistar Deportes 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/66848
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Movistar Deportes 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/66850
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Movistar Deportes 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/66852
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Movistar Deportes 5
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/66854
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Win Sports
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/67426
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN 1 ES
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/67868
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN 2 ES
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/67871
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN 3 ES
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/67873
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN 4 ES
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/67875
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sport TV 1 PT
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/69968
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sport TV 2 PT
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/69972
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Eleven Sports 1 PT
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70008
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Eleven Sports 2 PT
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70012
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Eleven Sports 3 PT
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70016
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ LaLiga TV 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131233
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ LaLiga TV 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131227
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ LaLiga TV 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131223
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ LaLiga TV 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/178222
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport PL DE
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131338
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Top Event DE
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131339
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131340
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131341
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131343
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131345
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 5
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131347
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 6
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131349
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 7
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131351
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131353
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 9
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131355
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sport Bundesliga 10
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131357
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN 1 DE
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131362
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN 2 DE
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131364
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sportdigital Fussball
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133131
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176188
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176189
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176190
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176191
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 5
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176192
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 6
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176193
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 7
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176194
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176195
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 9
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176196
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN UFC 10
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176197
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", EVENTO UFC 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131914
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", EVENTO UFC 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131915
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", EVENTO UFC 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131916
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", EVENTO UFC 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131917
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", EVENTO UFC 5
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131918
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sports Premier League UK
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133381
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sports Football UK
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133386
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sports Action UK
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133388
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Sky Sports Arena UK
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133390
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133400
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133402
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133404
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133405
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 5
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133406
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 6
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133407
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 7
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133408
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", TNT Sports 8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133409
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Premier Sports 1 UK
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133418
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Premier Sports 2 UK
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133419
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", BBC 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133454
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", BBC 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133465
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", BBC 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133462
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", BBC 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/133450
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Rai 1 Italy
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/170097
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", Rai 2 Italy
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/170099
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M.LaLiga TV 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/172445
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M.LaLiga TV 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/172447
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M.LaLiga TV 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/172449
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN Seria A 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175719
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN Seria A 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/172630
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", DAZN Seria A 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/172633
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ Liga Campeones 1
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175667
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ Liga Campeones 2
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175675
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ Liga Campeones 3
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175680
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", M+ Liga Campeones 4
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175682
+#EXTINF:-1 group-title="Redlight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DaH6E3fAr4OrmnR81VZpeJSLJ82_oE-FTQL5CAkskaggAxuB2gyVR78&s=10", ES Copa Del Rey
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/176263
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Top Event
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53664
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport PL
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53650
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Golf
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53651
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Mix
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53652
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN 1 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/10236
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN 2 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/17605
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Austria 1
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/17606
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Austria 2
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/10867
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Austria 3
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/10868
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Austria 4
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/10869
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Austria 5
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/23736
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sportdigital Fussball
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1544
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 1
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1540
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 2
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1539
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 3
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1538
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 4
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1537
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 5
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1536
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 6
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1535
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 7
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1534
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 8
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1533
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 9
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/14312
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport DE 10
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/14311
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 1
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/10237
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 2
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1528
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 3
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1527
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 4
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1526
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 5
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1525
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 6
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1524
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 7
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1523
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 9
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1521
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", Sky Sport Bundesliga 10
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1520
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 1 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53290
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 2 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53291
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 3 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53292
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 4 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53293
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 5 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53294
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 6 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53295
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 7 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53296
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 8 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53297
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 9 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53298
+#EXTINF:-1 group-title="Nline Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz9UvNV6W80AEM2ZHBMfhcNlPC31T7GDB2g&usqp=CAU", DAZN Event 10 DE
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/53299
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 (kstv)
@@ -5978,5 +5999,5 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Drama PLEX (Sweden)
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
-https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-14
-# 更新时间: 15:51:38
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-15
+# 更新时间: 01:27:44
