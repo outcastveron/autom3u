@@ -5205,30 +5205,6 @@ https://canale.mizhls.ru/lb/premium418/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium419/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 1 (Xplat)
-http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/118413
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 2 (Xplat)
-http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/118414
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 3 (Xplat)
-http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/118415
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 1 (red)
-http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131878
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 2 (red)
-http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131877
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 3 (red)
-http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131883
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 4 (red)
-http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/131884
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 1 (bolive)
-http://mdy.one/live/April2024/April2024/29719.ts
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 2 (bolive)
-http://mdy.one/live/April2024/April2024/29720.ts
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 3 (bolive)
-http://mdy.one/live/April2024/April2024/29721.ts
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 4 (bolive)
-http://mdy.one/live/April2024/April2024/29722.ts
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTt0dJKJpbKWQ6XTTeR59V3me_1oABNPQjcn8VfsRZIACcix152yuqNk&s=10", Jake Paul vs Mike Tyson_Event 5 (bolive)
-http://mdy.one/live/April2024/April2024/29723.ts
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten 1 - Vpn
 https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten 2 - Vpn
@@ -6228,4 +6204,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-16
-# 更新时间: 03:45:58
+# 更新时间: 12:34:41
