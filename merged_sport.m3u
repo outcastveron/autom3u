@@ -5142,6 +5142,22 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 #EXTVLCOPT:http-referrer=http://vpncloud.uk/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 - no Vpn
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 - no Vpn
+http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png", TNT Sports 3 - no Vpn
+http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png", TNT Sports 4 - no Vpn
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 - no Vpn
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 2 - no Vpn
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", Hub Premier 3 - no Vpn
+http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png", Hub Premier 4 - no Vpn
+http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://i.imgur.com/gaZdu8u.png", Fox Sports 1
 #EXTVLCOPT:http-referrer=http://vpncloud.uk/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -6098,5 +6114,5 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Drama PLEX (Sweden)
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
-https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-18
-# 更新时间: 15:52:11
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-19
+# 更新时间: 01:27:47
