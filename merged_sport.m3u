@@ -5706,6 +5706,24 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 1 - no Vpn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 2 - no Vpn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b08a329872444a79640d30bc8e5d88a:577fc30892aad29ef37139cf3210a267
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://icdb.tv/images/ec27f4a3c1d5565e5c002e7e0375d6d2.jpg", W SPORTS - no Vpn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf9be8615d3f410db7744d0a628c0f16:2397d34d036fedd415c6f46a9b657bde
+https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg", Polsat Sport 1 Premium - Vpn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
@@ -6494,4 +6512,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-11-20
-# 更新时间: 03:49:34
+# 更新时间: 12:37:59
