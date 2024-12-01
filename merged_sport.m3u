@@ -1,32 +1,20 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@drjpy7suzu4c5.cloudfront.net:443/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index_8.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index_7.m3u8
-
 #EXTINF:-1, TV BAR 🇪🇸
 https://www.oha.to/play/1980907224/index.m3u8
+
+#EXTINF:-1, S LALIGA 🇿🇦
+https://7pal.short.gy/sperspllg
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
+#EXTINF:-1, Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
@@ -35,34 +23,7 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 https://nexahub.biz/live/2/chunks.m3u8?bongls.com
 
 #EXTINF:-1, S LALIGA 🇿🇦
-https://zylotech.xyz/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1, S LALIGA 🇿🇦
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://7pal.short.gy/sperspllg
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://pepebong.online/live/3/chunks.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://b2.cys2.online/hls/0/stream.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://b2.cys2.online/hls/1/stream.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/901
-
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1, Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
@@ -965,7 +926,29 @@ https://zylotech.xyz/live/5/chunks.m3u8?bongls.com
 
 
 
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@drjpy7suzu4c5.cloudfront.net:443/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index_8.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index_7.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545#EXTM3U
@@ -6566,4 +6549,4 @@ https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romance (Sweden)
 https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8# 更新日期: 2024-12-01
-# 更新时间: 13:08:39
+# 更新时间: 13:33:25
