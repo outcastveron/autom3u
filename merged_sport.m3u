@@ -416,6 +416,9 @@ http://88.85.172.243:7002/play/a02j
 #EXTINF:-1, Футбол 1 HD 🇷🇺
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 
+#EXTINF:-1, Матч! Футбол 1 🇷🇺
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 
@@ -967,4 +970,4 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2024-12-10
-# 更新时间: 15:21:42
+# 更新时间: 15:42:35
