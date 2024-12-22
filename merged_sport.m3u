@@ -29,6 +29,9 @@ https://hutg54.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMj
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://185.236.229.62:9981/play/a05w
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
@@ -274,6 +277,12 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86415
 #EXTINF:-1, DIGI SPORT 4 🇷🇴
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86416
 
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33797
+
+#EXTINF:-1, DIGI SPORT 4 🇷🇴
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33803
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
 
@@ -285,6 +294,18 @@ https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 4 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
+http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
+http://109.233.89.166/Eleven_Sports_4_HD/mono.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://185.236.229.62:9981/play/a05w
@@ -306,6 +327,9 @@ http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1,Polsat Sport NEWS 🇵🇱
 http://178.219.128.68:64889/POLSSPORNEWSHD
+
+#EXTINF:-1, TVP_Sport HD 🇵🇱
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
@@ -835,5 +859,5 @@ http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2024-12-21
-# 更新时间: 15:51:23
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2024-12-22
+# 更新时间: 01:36:41
