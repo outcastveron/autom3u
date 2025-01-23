@@ -13,6 +13,15 @@ http://89.238.193.38:8000/play/a075/index.m3u8
 #EXTINF:-1, PRIMA Sport 2 🇷🇴
 http://89.238.193.38:8000/play/a08h/index.m3u8
 
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, S CHAMP 🇸🇦
+https://2.hajma.online/hls/0/stream.m3u8
+
+#EXTINF:-1, S CHAMP 🇸🇦
+https://2.hajma.online/hls/1/stream.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
 http://176.65.146.108:8022/play/a072/index.m3u8
 
@@ -36,6 +45,15 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1, Ring 🇧🇬
 http://195.24.90.119:800/play/a0b3
+
+#EXTINF:-1, CHAMP 🇸🇦
+https://4.hajma.online/hls/0/stream.m3u8
+
+#EXTINF:-1, S CHAMP 🇸🇦
+https://4.hajma.online/hls/1/stream.m3u8
+
+#EXTINF:-1, CHAMP 🇿🇦
+https://unixetersport.my/live/1/chunks.m3u8?bongls.com
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
@@ -706,5 +724,5 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-01-22
-# 更新时间: 15:51:20
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-01-23
+# 更新时间: 01:21:25
