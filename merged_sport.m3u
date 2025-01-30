@@ -28,6 +28,9 @@ http://176.65.146.108:8022/play/a072/index.m3u8
 #EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27030
 
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.49:1234
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 
@@ -285,6 +288,42 @@ http://176.65.146.108:8022/play/a06u/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 6 HD 🇵🇹
 http://176.65.146.108:8022/play/a074/index.m3u8
+
+#EXTINF:-1,DAZN 1 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.48:1234
+
+#EXTINF:-1,DAZN 2 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.49:1234
+
+#EXTINF:-1,DAZN 3 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.50:1234
+
+#EXTINF:-1,DAZN 4 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.51:1234
+
+#EXTINF:-1,DAZN 5 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.52:1234
+
+#EXTINF:-1,DAZN 6 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.53:1234
+
+#EXTINF:-1,Sport TV 1 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.21:1234
+
+#EXTINF:-1,Sport TV 3 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.23:1234
+
+#EXTINF:-1,Sport TV 2 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.22:1234
+
+#EXTINF:-1,Sport TV 4 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.24:1234
+
+#EXTINF:-1,Sport TV 5 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.25:1234
+
+#EXTINF:-1,Sport TV 6 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.26:1234
 
 #EXTINF:-1,SPORTV + 🇵🇹
 http://176.65.146.108:8022/play/a07t/index.m3u8
@@ -898,5 +937,5 @@ http://195.24.90.119:800/play/a099
 
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-01-29
-# 更新时间: 15:51:21
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-01-30
+# 更新时间: 01:20:15
