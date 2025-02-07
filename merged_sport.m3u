@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1, SSC1 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, SSC1 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_B/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, SSC1 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/index.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
-
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
@@ -52,6 +40,9 @@ https://wo.cma.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persiana.m3u8
@@ -789,4 +780,4 @@ http://195.24.90.119:800/play/a099
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-07
-# 更新时间: 13:51:22
+# 更新时间: 14:16:59
