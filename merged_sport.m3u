@@ -506,6 +506,9 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 http://45.65.112.49:8000/play/a0ns
 
 #EXTINF:-1, SPORT ITALIA 🇮🇹
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
+#EXTINF:-1, SPORT ITALIA 🇮🇹
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
 #EXTINF:-1, SPORT ITALIA 🇮🇹
@@ -537,6 +540,9 @@ https://jmp2.uk/sam-ATBD26000124P.m3u8
 
 #EXTINF:-1, T SPORT 🇮🇳
 http://103.96.235.18:8080/sports1/index.m3u8
+
+#EXTINF:-1, SPORT 18 🇮🇳
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=3724000.m3u8
 
 #EXTINF:-1, SPORT 18 (3) 🇮🇳
 http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
@@ -768,9 +774,12 @@ http://195.24.90.119:800/play/a0aw
 #EXTINF:-1,bTV Action 🇧🇬
 http://195.24.90.119:800/play/a099
 
+#EXTINF:-1,SPORTSMAX 🇩🇴
+https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
+
 
 
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-07
-# 更新时间: 14:39:37
+# 更新时间: 14:51:19
