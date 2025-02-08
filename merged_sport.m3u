@@ -1,32 +1,23 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1, DIGI Sport 3 🇷🇴
-http://89.238.193.38:8000/play/a07d/index.m3u8
-
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1,DAZN 3 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.50:1234
-
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://176.65.146.108:8022/play/a073/index.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://45.139.122.148:8000/play/a006
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://cma.footballii.ir/hls2/b3.m3u8
+#EXTINF:-1,SPORTSMAX2 🇩🇴
+https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://wo.cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+http://89.238.193.38:8000/play/a07c/index.m3u8
+
+#EXTINF:-1,DAZN 1 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.48:1234
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
@@ -37,32 +28,38 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persiana.m3u8
 
-#EXTINF:-1, TRUE VISION 3 🇹🇭
-http://myserver.myphuket.net:25461/test2/test2/50
-
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://176.65.146.108:8022/play/a06r/index.m3u8
-
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://185.236.229.62:9981/play/a05w
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://f01.live:8080/ManuelM/151022/135614
+#EXTINF:-1, PRIMA Sport 1 🇷🇴
+http://89.238.193.38:8000/play/a07z/index.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://45.139.122.148:8000/play/a006
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://cma.footballii.ir/hls2/b3.m3u8
+
+#EXTINF:-1, TRUE VISION 3 🇹🇭
+http://myserver.myphuket.net:25461/test2/test2/50
 
 #EXTINF:-1, ARENA 2 PREMIUM 🇷🇸
 http://f01.live:8080/ManuelM/151022/640578
 
 #EXTINF:-1, ARENA 1 🇭🇷
 http://f01.live:8080/ManuelM/151022/640558
-
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://176.65.146.108:8022/play/a06r/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://176.65.146.108:8022/play/a072/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
@@ -108,9 +105,6 @@ https://cma.footballii.ir/hls2/solhtv.m3u8
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0poFvFWj7a8qV2HpTSisjDsU6EDIBiTdBZNPARJM6ie
@@ -782,4 +776,4 @@ https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-08
-# 更新时间: 03:52:05
+# 更新时间: 12:32:45
