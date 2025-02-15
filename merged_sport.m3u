@@ -8,6 +8,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
+https://dffgtrdb.vffddd.online:8182/bein3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
 
 #EXTINF:-1, Bien sport 3 🇶🇦
@@ -330,6 +333,15 @@ http://89.238.193.38:8000/play/a089/index.m3u8
 
 #EXTINF:-1, PRIMA Sport 3 🇷🇴
 http://89.238.193.38:8000/play/a080/index.m3u8
+
+#EXTINF:-1, SK1 🇭🇷
+http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1, SK2 🇭🇷
+http://nl.iptvsolution.info:80/sk2/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1, SK3 🇭🇷
+http://nl.iptvsolution.info:80/sk3/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
 
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
@@ -813,4 +825,4 @@ http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-15
-# 更新时间: 14:40:24
+# 更新时间: 14:51:22
