@@ -10,47 +10,8 @@ https://paco@liveua.score806.cc/espn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://paco@liveua.score806.cc/espn1/index.m3u8
 
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir/hls2/b1.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
-
-#EXTINF:-1, DIGI Sport 1 🇷🇴
-http://89.238.193.38:8000/play/a07c/index.m3u8
-
-#EXTINF:-1,DAZN 1 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.48:1234
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://stream.live12.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://185.236.229.62:9981/play/a05w
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
-
-#EXTINF:-1,SPORTSMAX2 🇩🇴
-https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, PRIMA Sport 1 🇷🇴
-http://89.238.193.38:8000/play/a07z/index.m3u8
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
@@ -62,16 +23,34 @@ http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
-https://cma.footballii.ir/hls2/b3.m3u8
+http://78.159.119.122:2082/LIST-MIGIRATION-0mkDfTnWak/rwtdbHExVn/903
 
-#EXTINF:-1, TRUE VISION 3 🇹🇭
-http://myserver.myphuket.net:25461/test2/test2/50
+#EXTINF:-1, CANAL+ SPORT HD 🇵🇱
+http://185.236.229.62:9981/play/a04c
 
-#EXTINF:-1, ARENA 2 PREMIUM 🇷🇸
-http://f01.live:8080/ManuelM/151022/640578
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
-#EXTINF:-1, ARENA 1 🇭🇷
-http://f01.live:8080/ManuelM/151022/640558
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://stream.live12.ir/hls2/persiana.m3u8
+
+#EXTINF:-1,DAZN 2 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.49:1234
+
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+http://89.238.193.38:8000/play/a07c/index.m3u8
+
+#EXTINF:-1, PRIMA Sport 2 🇷🇴
+http://89.238.193.38:8000/play/a08h/index.m3u8
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
@@ -88,8 +67,38 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
 
-#EXTINF:-1, S SPORT 1 🇹🇷
-http://f01.live:8080/ManuelM/151022/135574
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1,DAZN 1 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.48:1234
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://185.236.229.62:9981/play/a05w
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
+
+#EXTINF:-1,SPORTSMAX2 🇩🇴
+https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, PRIMA Sport 1 🇷🇴
+http://89.238.193.38:8000/play/a07z/index.m3u8
+
+#EXTINF:-1, TRUE VISION 3 🇹🇭
+http://myserver.myphuket.net:25461/test2/test2/50
+
+#EXTINF:-1, ARENA 2 PREMIUM 🇷🇸
+http://f01.live:8080/ManuelM/151022/640578
+
+#EXTINF:-1, ARENA 1 🇭🇷
+http://f01.live:8080/ManuelM/151022/640558
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8
@@ -117,27 +126,6 @@ https://cma.footballii.ir/hls2/solhtv.m3u8
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0poFvFWj7a8qV2HpTSisjDsU6EDIBiTdBZNPARJM6ie
-
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://176.65.146.108:8022/play/a06r/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://176.65.146.108:8022/play/a072/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://176.65.146.108:8022/play/a073/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://176.65.146.108:8022/play/a06t/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 5 HD 🇵🇹
-http://176.65.146.108:8022/play/a06u/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 6 HD 🇵🇹
-http://176.65.146.108:8022/play/a074/index.m3u8
 
 #EXTINF:-1,DAZN 1 HD 🇵🇹
 http://195.23.75.15:8000/udp/239.100.6.48:1234
@@ -174,27 +162,6 @@ http://195.23.75.15:8000/udp/239.100.6.25:1234
 
 #EXTINF:-1,Sport TV 6 HD 🇵🇹
 http://195.23.75.15:8000/udp/239.100.6.26:1234
-
-#EXTINF:-1,SPORTV + 🇵🇹
-http://176.65.146.108:8022/play/a07t/index.m3u8
-
-#EXTINF:-1,SPORTV1 🇵🇹
-http://176.65.146.108:8022/play/a06h/index.m3u8
-
-#EXTINF:-1,SPORTV2 🇵🇹
-http://176.65.146.108:8022/play/a06i/index.m3u8
-
-#EXTINF:-1,SPORTV3 🇵🇹
-http://176.65.146.108:8022/play/a06j/index.m3u8
-
-#EXTINF:-1,SPORTV4 🇵🇹
-http://176.65.146.108:8022/play/a05z/index.m3u8
-
-#EXTINF:-1,SPORTV5 🇵🇹
-http://176.65.146.108:8022/play/a06f/index.m3u8
-
-#EXTINF:-1,SPORTV6 🇵🇹
-http://176.65.146.108:8022/play/a06g/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
@@ -286,26 +253,8 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
 
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
 #EXTINF:-1, Setanta Sports 1 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
-
-#EXTINF:1, MEGOGO Спорт 2 HD 🇺🇦
-http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports2.stream/chunks.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
@@ -357,12 +306,6 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 
 #EXTINF:-1, Беларусь 5 (HD) 🇧🇾
 http://93.189.224.246:52900/play/a005/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 5 🇭🇷
-http://f01.live:8080/ManuelM/151022/640550
-
-#EXTINF:-1, ARENA 1 PREMIUM 🇷🇸
-http://f01.live:8080/ManuelM/151022/640580
 
 #EXTINF:-1, DIGI Sport 1 HD 🇷🇴
 http://89.238.193.38:8000/play/a061/index.m3u8
@@ -486,6 +429,9 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d
 
 #EXTINF:-1, JOJ Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
+
+#EXTINF:-1, SPORTYTV 🇨🇿
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
@@ -873,4 +819,4 @@ http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-15
-# 更新时间: 03:51:30
+# 更新时间: 12:32:43
