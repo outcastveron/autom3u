@@ -1,14 +1,32 @@
 #EXTM3U
 #EXTM3U
 
+#EXTINF:-1, ESPN 🇦🇷
+https://66c9d1855f70.us-west-2.playback.live-video.net/api/video/v1/us-west-2.940482422488.channel.6YKIrv4QAGi8.m3u8
+
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://airmax.boats:443/live/airmaxtvliveXDEE2/airmaxtvliveAIR02055/306.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://wo.cma.footballii.ir/hls2/b1.m3u8
@@ -27,6 +45,12 @@ https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
 
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07c/index.m3u8
+
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+https://p13.magicplaces.eu:443/digisport1hd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=35fc900816140f2e96bbfc96d898f1e7729cf338-275826c0f4bfff80139cf74a762ea5ca-1740004687-1739993887
+
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+https://p13.magicplaces.eu/digisport1hd/index.m3u8?token=35fc900816140f2e96bbfc96d898f1e7729cf338-275826c0f4bfff80139cf74a762ea5ca-1740004687-1739993887&remote=no_check_ip
 
 #EXTINF:-1, PRIMA Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07z/index.m3u8
@@ -442,6 +466,9 @@ http://bdd78.4rouwanda-shop.store/live/33523510/index.m3u8
 #EXTINF:-1, Bien sport 8 🇶🇦
 http://bdd78.4rouwanda-shop.store/live/996251000/index.m3u8
 
+#EXTINF:-1, CANAL + France 🇫🇷
+https://daddy.nayeem-parvez.workers.dev/122.m3u8
+
 #EXTINF:-1, Bein Sports 🇬🇧
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
@@ -624,6 +651,12 @@ http://212.102.60.231/TSN_4/index.m3u8
 
 #EXTINF:-1, TSN 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
+
+#EXTINF:-1, ESPN 🇧🇷
+https://super-cdn.link:443/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 🇧🇷
+https://super-cdn.link/espn/index.m3u8
 
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -840,5 +873,5 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-19
-# 更新时间: 15:51:34
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-20
+# 更新时间: 01:23:48
