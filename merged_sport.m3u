@@ -43,6 +43,9 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
 
+#EXTINF:-1,SPORTSMAX2 🇩🇴
+https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
@@ -75,9 +78,6 @@ http://185.236.229.62:9981/play/a05w
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
-
-#EXTINF:-1,SPORTSMAX2 🇩🇴
-https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PRIMA Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07z/index.m3u8
@@ -839,4 +839,4 @@ http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-02-23
-# 更新时间: 14:16:47
+# 更新时间: 14:39:17
