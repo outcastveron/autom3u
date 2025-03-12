@@ -49,6 +49,9 @@ https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
 
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+https://agebaraveg.shop/live/1/chunks.m3u8
+
 #EXTINF:-1, TUDN USA 🇺🇸
 http://45.68.35.218:4001/play/a00x/index.m3u8
 
@@ -92,6 +95,9 @@ https://top2new.koskoros.ru/top2/ftkcosmote6/mono.m3u8
 https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports2arb/mono.m3u8
 
 #EXTINF:-1, Bien sport 2 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b2_src.m3u8
+
+#EXTINF:-1, Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
 
 #EXTINF:-1, Bien sport 2 🇶🇦
@@ -116,6 +122,9 @@ http://109.105.201.198/Arenasport2/video.m3u8?token=test
 https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrde.vffddd.online/bein1/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
@@ -123,12 +132,6 @@ https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://a.gggsjmjh756hgffreewguiijnbvcfg7.store/bein1en/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://a.gggsjmjh756hgffreewguiijnbvcfg7.store:443/bein1en/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
@@ -295,6 +298,9 @@ https://wikinew.koskoros.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://wikinew.koskoros.ru/wiki/yallalive2935/mono.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://dffgtrdb.vffddd.online/bein3/index.m3u8
@@ -823,5 +829,5 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-11
-# 更新时间: 15:52:35
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-12
+# 更新时间: 01:26:31
