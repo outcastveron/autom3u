@@ -13,6 +13,18 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1, TUDN USA 🇺🇸
+https://windnew.koskoros.ru/wind/premium66/mono.m3u8
+
+#EXTINF:-1, TUDN USA 🇺🇸
+https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8
+
+#EXTINF:-1, UNIMAS 🇺🇸
+https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
+
+#EXTINF:-1, TUDN USA 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
@@ -39,18 +51,6 @@ https://windnew.koskoros.ru/wind/premium481/mono.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-http://45.68.35.218:4001/play/a00x/index.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-https://windnew.koskoros.ru/wind/premium66/mono.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8
-
-#EXTINF:-1, UNIMAS 🇺🇸
-https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
@@ -117,11 +117,6 @@ https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
 
 #EXTINF:-1,TNT SPORTS 3 🇬🇧
 http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
-
-
-
-
-
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
@@ -291,6 +286,9 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://top2new.koskoros.ru/top2/eplayerespn_dep/mono.m3u8
+
+#EXTINF:-1,LALIGA TV 🇬🇧
+https://windnew.koskoros.ru/wind/premium276/mono.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
 https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
@@ -847,4 +845,4 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-12
-# 更新时间: 13:13:33
+# 更新时间: 13:36:56
