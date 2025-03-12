@@ -1,23 +1,17 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
+#EXTINF:-1, FOX SPORTS 🇦🇷
+https://nix1-dc4new.koskoros.ru/nix1-dc4/argfoxsports1/mono.m3u8
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-https://top2new.koskoros.ru/top2/arg_espn/mono.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
@@ -28,29 +22,23 @@ https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium439/mono.m3u8
 
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-https://ddy6new.koskoros.ru/ddy6/premium474/mono.m3u8
+#EXTINF:-1, Canal+ Sport 🇫🇷
+https://windnew.koskoros.ru/wind/premium122/mono.m3u8
 
-#EXTINF:-1, ARENA SPORT 3 🇭🇷
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+#EXTINF:-1, Canal+ Sport 🇫🇷
+https://nix1-dc4new.koskoros.ru/nix1-dc4/Canalplusfrance/mono.m3u8
 
-#EXTINF:-1, ARENA SPORT 3 🇭🇷
-https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
+#EXTINF:-1, Cosmote Sport 2 🇬🇷
+https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8
 
-#EXTINF:-1, Arena Sport 1 Premium 🇷🇸
-https://windnew.koskoros.ru/wind/premium134/mono.m3u8
+#EXTINF:-1, Cosmote Sport 2 🇬🇷
+https://top2new.koskoros.ru/top2/ftkcosmote2/mono.m3u8
 
-#EXTINF:-1, Arena Sport 1 Premium 🇷🇸
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arena1premiumserbia/mono.m3u8
+#EXTINF:-1,bTV Action HD 🇧🇬
+https://windnew.koskoros.ru/wind/premium481/mono.m3u8
 
-#EXTINF:-1, SuperSport MaXimo 1 🇿🇦
-https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-https://agebaraveg.shop/live/1/chunks.m3u8
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1, TUDN USA 🇺🇸
 http://45.68.35.218:4001/play/a00x/index.m3u8
@@ -76,14 +64,82 @@ https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
 #EXTINF:-1, Sport TV5 🇵🇹
 https://top2new.koskoros.ru/top2/eplayerSPORTTV5/mono.m3u8
 
+#EXTINF:-1, SuperSport MaXimo 1 🇿🇦
+https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrde.vffddd.online/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
+
 #EXTINF:-1, Cytavision Sports 3 🇨🇾
 https://windnew.koskoros.ru/wind/premium913/mono.m3u8
 
-#EXTINF:-1, Canal+ Sport 🇫🇷
-https://windnew.koskoros.ru/wind/premium122/mono.m3u8
+#EXTINF:-1, Arena Sport 1 Premium 🇷🇸
+https://windnew.koskoros.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1, Canal+ Sport 🇫🇷
-https://nix1-dc4new.koskoros.ru/nix1-dc4/Canalplusfrance/mono.m3u8
+#EXTINF:-1, Arena Sport 1 Premium 🇷🇸
+https://nix1-dc4new.koskoros.ru/nix1-dc4/arena1premiumserbia/mono.m3u8
+
+#EXTINF:-1,bTV Action HD 🇧🇬
+http://195.24.90.119:800/play/a0aw
+
+#EXTINF:-1,bTV Action 🇧🇬
+http://195.24.90.119:800/play/a099
+
+#EXTINF:-1,BIEN SPORTS 1 🇬🇧
+https://windnew.koskoros.ru/wind/premium61/mono.m3u8
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
+
+
+
+
+
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
+
+#EXTINF:-1, ESPN 🇦🇷
+https://top2new.koskoros.ru/top2/arg_espn/mono.m3u8
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+https://ddy6new.koskoros.ru/ddy6/premium474/mono.m3u8
+
+#EXTINF:-1, ARENA SPORT 3 🇭🇷
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
+#EXTINF:-1, ARENA SPORT 3 🇭🇷
+https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+https://agebaraveg.shop/live/1/chunks.m3u8
 
 #EXTINF:-1, Cosmote Sport 7 🇬🇷
 https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
@@ -118,41 +174,8 @@ http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://109.105.201.198/Arenasport2/video.m3u8?token=test
 
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrde.vffddd.online/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
-
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
-
-#EXTINF:-1, Cosmote Sport 2 🇬🇷
-https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8
-
-#EXTINF:-1, Cosmote Sport 2 🇬🇷
-https://top2new.koskoros.ru/top2/ftkcosmote2/mono.m3u8
-
-#EXTINF:-1,bTV Action HD 🇧🇬
-https://windnew.koskoros.ru/wind/premium481/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://platform.topuphost.com:8577/live/alfajerhd.stream/chunklist_w244765454.m3u8
@@ -235,12 +258,6 @@ http://109.105.201.198/Arenasport2/video.m3u8?token=test
 #EXTINF:-1, ARENA SPORT 4 🇭🇷
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
-#EXTINF:-1,bTV Action HD 🇧🇬
-http://195.24.90.119:800/play/a0aw
-
-#EXTINF:-1,bTV Action 🇧🇬
-http://195.24.90.119:800/play/a099
-
 #EXTINF:-1,SPORTSMAX 🇩🇴
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 
@@ -249,9 +266,6 @@ http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 
 
@@ -830,4 +844,4 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-12
-# 更新时间: 03:45:26
+# 更新时间: 12:38:36
