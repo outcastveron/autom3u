@@ -16,8 +16,11 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:-1,LALIGA TV 🇬🇧
 https://windnew.koskoros.ru/wind/premium276/mono.m3u8
 
-#EXTINF:-1,4Sports 🇮🇱
-https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, DIGI Sport 2 🇷🇴
+https://top2new.koskoros.ru/top2/premium401/mono.m3u8
 
 #EXTINF:-1,ESPN ARGENTINA 🇦🇷
 http://181.78.74.69:8000/play/a060/index.m3u8
@@ -31,23 +34,29 @@ https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN 🇨🇴
 http://181.78.74.69:8000/play/a056/index.m3u8
 
-#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
-http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
 
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://45.139.122.148:8000/play/a006
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://top2new.koskoros.ru/top2/eplayerespn_dep/mono.m3u8
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1,4Sports 🇮🇱
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://45.139.122.148:8000/play/a006
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://top2new.koskoros.ru/top2/eplayerespn_dep/mono.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
 https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
@@ -66,15 +75,6 @@ https://wikinew.koskoros.ru/wiki/yallalive2935/mono.m3u8
 
 #EXTINF:-1, DAZN 1 🇩🇪
 https://nix1-dc4new.koskoros.ru/nix1-dc4/dazn1de/mono.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://wikinew.koskoros.ru/wiki/yallalive3852/mono.m3u8
@@ -105,9 +105,6 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
@@ -826,4 +823,4 @@ http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-15
-# 更新时间: 14:39:28
+# 更新时间: 14:51:25
