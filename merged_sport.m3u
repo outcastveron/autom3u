@@ -29,6 +29,12 @@ http://181.78.74.69:8000/play/a056/index.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, DIGI SPORT 2 🇷🇴
@@ -72,6 +78,12 @@ http://181.78.74.69:8000/play/a060/index.m3u8
 
 #EXTINF:-1,4Sports 🇮🇱
 https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
@@ -826,4 +838,4 @@ http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-16
-# 更新时间: 13:51:14
+# 更新时间: 14:15:38
