@@ -28,6 +28,12 @@ http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
 #EXTINF:-1,ESPN 🇨🇴
 http://181.78.74.69:8000/play/a056/index.m3u8
 
+#EXTINF:-1,ELEVEN 1 🇵🇹
+https://stream.veo.buzz:6072/sport/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,ELEVEN 1 🇵🇹
+https://stream.veo.buzz:6072/sport/ch1/adaptive.m3u8
+
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
@@ -875,4 +881,4 @@ http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545404: Not Found# 更新日期: 2025-03-29
-# 更新时间: 13:51:16
+# 更新时间: 14:17:15
